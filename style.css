@@ -5,5 +5,9 @@
     --destaque: #00CED1;
     --preto: #000000;
     --branco: #ffffff;
-    
+
+}
+body{
+    background-color: var(--fundo
+    );
 }
