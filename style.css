@@ -1,13 +1,13 @@
-:root{
+:root {
     --fundo: #E6E6FA;
     --cor-frente: #FFF0F5;
-    --cor-verso: 	#836FFF;
+    --cor-verso: #836FFF;
     --destaque: #00CED1;
     --preto: #000000;
     --branco: #ffffff;
 
 }
-body{
-    background-color: var(--fundo
-    );
+
+body {
+    background-color: var(--fundo);
 }
