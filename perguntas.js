@@ -23,7 +23,7 @@ CriaCartao(
     'O que é uma cadeia saturada?',
     'Carbonos com somente ligações simples')
 
-CriaCartão(
+CriaCartao(
     'Matemática',
     'Qual a fórmula para descobrir a área do triângulo?',
     'b.h/2')
