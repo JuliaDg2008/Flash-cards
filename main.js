@@ -12,5 +12,7 @@ function CriaCartao(categoria, pergunta, resposta) {
     <p> resposta</p>
 </div>
 </div>
-    `
+`
+container.appendChild(cartao);
+
 }
