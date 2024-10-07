@@ -15,5 +15,5 @@ body {
 footer {
     position: fixed;
     bottom: 0;
-    background-color: var(--branco);
+    background-color: var(--cor-frente);
 }
