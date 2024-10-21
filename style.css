@@ -53,6 +53,7 @@ footer {
     position: absolute;
     text-align: left;
     font-size: 1.2vw;
+    backface-visibility: hidden;
 }
 
 .conteudo-cartao p {
