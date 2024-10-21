@@ -29,20 +29,20 @@ footer {
     flex-wrap: wrap;
 }
 
-.cartao{
+.cartao {
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
     height: 20rem;
     margin: 1rem;
 }
 
-.conteudo-cartao{
+.conteudo-cartao {
     background-color: var(--cor-frente);
     height: 100%;
     text-align: center;
 }
 
-.conteudo-cartao h3{
+.conteudo-cartao h3 {
     border: 1px solid var(--destaque);
     border-radius: 6rem;
     color: var(--destaque);
@@ -51,4 +51,11 @@ footer {
     position: absolute;
     text-align: left;
     font-size: 1.2vw;
+}
+
+.conteudo-cartao p {
+    margin-top: 5rem;
+    padding: 2rem;
+    font-size: 1.4vw;
+    
 }
