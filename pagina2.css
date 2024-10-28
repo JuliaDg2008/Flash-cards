@@ -43,7 +43,7 @@ footer {
 .cartao{
     background-color: var(--cor-frente);
     padding: 40px; 
-    box-shadow: 2px 2px 2px var(--preto);
+    box-shadow: -12px 14px 16px var(--preto);
 }
 
 .cartao:hover{
