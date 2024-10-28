@@ -13,11 +13,16 @@ body {
     margin: 0;
 }
 
-header{
+header {
     background-color: var(--preto);
     display: flex;
     justify-content: space-around;
     padding: 2rem;
+}
+
+header a {
+    color: var(--branco);
+    
 }
 
 footer {
@@ -69,12 +74,12 @@ footer {
     font-size: 1.4vw;
 }
 
-.pergunta-cartao{
+.pergunta-cartao {
 
     font-weight: 500;
 }
 
-.resposta-cartao{
+.resposta-cartao {
     font-weight: 700;
     color: var(--destaque);
     background-color: var(--cor-verso);
@@ -82,15 +87,14 @@ footer {
     transform: rotateY(180deg);
 }
 
-.cartao.active .conteudo-cartao{
+.cartao.active .conteudo-cartao {
     transform: rotateY(180deg);
 }
 
-.pergunta-cartao, .resposta-cartao{
-    backface-visibility: hidden; 
+.pergunta-cartao,
+.resposta-cartao {
+    backface-visibility: hidden;
     position: absolute;
     height: 100%;
     width: 100%;
 }
-
-
