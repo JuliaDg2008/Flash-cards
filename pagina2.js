@@ -18,14 +18,14 @@ function CriaCartao(categoria, pergunta, resposta) {
 
 }
 
-function viraCartao(card){
-    const resposta= card.querySelector('.resposta-cartao');
+function viraCartao(card) {
+    const resposta = card.querySelector('.resposta-cartao');
 }
 
-if (){
+if (resposta.style.display) {
 
 }
 
-else{
-    
+else {
+
 }
