@@ -22,10 +22,10 @@ function viraCartao(card) {
     const resposta = card.querySelector('.resposta-cartao');
 }
 
-if (resposta.style.display) {
-
+if (resposta.style.display === 'none') {
+resposta.style.display ='block';
 }
 
 else {
-
+resposta,style.display ='none'
 }
