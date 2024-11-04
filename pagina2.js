@@ -27,6 +27,6 @@ if (resposta.style.display === 'none') {
 }
 
 else {
-    resposta, style.display = 'none'
+    resposta.style.display = 'none'
 }
 
