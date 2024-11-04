@@ -17,3 +17,7 @@ function CriaCartao(categoria, pergunta, resposta) {
     container.appendChild(cartao);
 
 }
+
+function viraCartao(card){
+    const resposta= card.querySelector('.resposta-cartao');
+}
